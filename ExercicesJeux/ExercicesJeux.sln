@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice01", "Exercice01\Exercice01.csproj", "{5F772F78-C07B-4DA4-B0EA-55AF073EC747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F772F78-C07B-4DA4-B0EA-55AF073EC747}.Debug|x86.ActiveCfg = Debug|x86
+		{5F772F78-C07B-4DA4-B0EA-55AF073EC747}.Debug|x86.Build.0 = Debug|x86
+		{5F772F78-C07B-4DA4-B0EA-55AF073EC747}.Release|x86.ActiveCfg = Release|x86
+		{5F772F78-C07B-4DA4-B0EA-55AF073EC747}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
